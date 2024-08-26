@@ -1,5 +1,6 @@
 export default [
   {
+    
     inputs: [],
     name: "latestRoundData",
     outputs: [

@@ -22,7 +22,6 @@ const priceOracleV3Contract = new ethers.Contract(
 
 const priceFeedInterface = new ethers.Interface(PriceFeedABI);
 
-
 const writeFile = (
   target: string,
   value: string,
